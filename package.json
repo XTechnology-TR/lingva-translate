@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@chakra-ui/icons": "2.0.2",
-    "@chakra-ui/react": "2.2.1",
+    "@chakra-ui/react": "2.10.3",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "apollo-server-micro": "^2.25.2",
